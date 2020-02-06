@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "prettify": "import-sort --write 'components/**/*.js' && prettier --write 'components/**/*.js'"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +17,9 @@
     "next": "^9.2.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "import-sort-cli": "6.0.0",
+    "prettier": "1.19.1"
   }
 }
