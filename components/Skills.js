@@ -9,7 +9,7 @@ const Skills = () => (
       return (
         <div className="small" key={i}>
           <div>
-            &raquo;{" "}<strong>{group}</strong>:{" "}
+            &raquo; <strong>{group}</strong>:{" "}
             {items.map((item, j) => {
               return (
                 <span key={j}>

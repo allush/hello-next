@@ -7,7 +7,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "prettify": "import-sort --write 'components/**/*.js' && prettier --write 'components/**/*.js'"
+    "prettify": "import-sort --write 'components/**/*.js' 'pages/**/*.js' && prettier --write 'components/**/*.js' 'pages/**/*.js'"
   },
   "keywords": [],
   "author": "",
