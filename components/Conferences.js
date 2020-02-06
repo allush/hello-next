@@ -23,7 +23,7 @@ const Conferences = () => (
       .
     </p>
 
-    <img className="img-round" alt="" src="/static/images/team.jpg" />
+    <img className="img-round" alt="team" src="/static/images/team.jpg" />
   </div>
 );
 

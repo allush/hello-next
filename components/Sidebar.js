@@ -14,21 +14,21 @@ const Sidebar = () => (
     <br />
 
     <p className="view">
-      <img src="/static/images/github.png" />
+      <img alt="github" src="/static/images/github.png" />
       <a href="https://github.com/allush" target="_blank" rel="nofollow noreferer">
         GitHub
       </a>
     </p>
 
     <p className="view">
-      <img src="/static/images/twitter.png" />
-      <a href="https://twitter.com/alexeylushnikov" target="_blank">
+      <img alt="twitter" src="/static/images/twitter.png" />
+      <a href="https://twitter.com/alexeylushnikov" target="_blank" rel="nofollow noreferer">
         Twitter
       </a>
     </p>
 
     <p className="view">
-      <img src="/static/images/skype.png" />
+      <img alt="skype" src="/static/images/skype.png" />
       <a href="skype:al.lushnikov" target="_blank">
         al.lushnikov
       </a>
