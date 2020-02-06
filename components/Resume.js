@@ -12,7 +12,7 @@ const Resume = () => (
     <pre>
       <p>Work on Linux.</p>
       <p>Write in: Ruby, Go, JS, PHP.</p>
-      <p>Use: Ruby on Rails, ReactJS.</p>
+      <p>Use: Ruby on Rails, ReactJS, NextJS.</p>
       <p>In everyday work use: Git, Docker.</p>
       <p>Able to perform DevOps tasks.</p>
       <p>Code in IDE.</p>

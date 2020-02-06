@@ -5,7 +5,7 @@ const skills = [
   },
   {
     "group": "Frameworks",
-    "items": ["ruby on rails", "ReactJS"]
+    "items": ["ruby on rails", "reactjs", "nextjs"]
   },
   {
     "group": "DevOps",
