@@ -21,7 +21,7 @@ const Sidebar = () => (
     </p>
 
     <p className="view">
-      <img alt="twitter" src="/static/images/twitter.png" />
+      <img alt="twitter" src="/static/images/twitter.png" rel="nofollow noreferer" />
       <a href="https://twitter.com/alexeylushnikov" target="_blank" rel="nofollow noreferer">
         Twitter
       </a>
@@ -29,7 +29,7 @@ const Sidebar = () => (
 
     <p className="view">
       <img alt="skype" src="/static/images/skype.png" />
-      <a href="skype:al.lushnikov" target="_blank">
+      <a href="skype:al.lushnikov" target="_blank" rel="nofollow noreferer">
         al.lushnikov
       </a>
     </p>

@@ -9,6 +9,16 @@ const Layout = ({ children, t }) => (
     <Head>
       <title>Alexey Lushnikov - Software architect</title>
 
+      <meta property="og:url" content="https://py3k.ru" />
+      <meta property="og:type" content="profile" />
+      <meta property="profile:first_name" content="Alexey" />
+      <meta property="profile:last_name" content="Lushnikov" />
+      <meta property="profile:gender" content="male" />
+      <meta property="profile:username" content="allush" />
+      <meta property="og:title" content="Software architect" />
+      <meta property="og:description" content="Programmer with ten years of experience" />
+      <meta property="og:image" content="https://py3k.ru/static/images/iam.jpg" />
+
       <meta charSet="utf-8" />
       <meta httpEquiv="X-UA-Compatible" content="chrome=1" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
